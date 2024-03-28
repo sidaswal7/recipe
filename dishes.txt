@@ -1,4 +1,11 @@
+Welcome to my Kitchen
 These are all the available dishes:
 - pasta
 - pizza
 - spagetti
+- chicken fry
+- chicken salami
+
+
+
+Thank You!
