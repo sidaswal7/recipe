@@ -6,6 +6,12 @@ These are all the available dishes:
 - chicken fry
 - chicken salami
 
+Shakes available:
+-Mango
+-Oreo
+-kiwi
+-chocolate
+
 
 
 Thank You!
