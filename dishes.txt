@@ -1,0 +1,4 @@
+These are all the available dishes:
+- pasta
+- pizza
+- spagetti
